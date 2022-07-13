@@ -1,7 +1,7 @@
 # livro-de-receitas
 
-🌺 Livro de receitas 🌺
-Olá! Bem-vindo ao meu livro de receitas!
+🌺 Pasta interativa de receitas 🌺
+Olá! Bem-vindo a minha pasta de receitas!
 
  Receita Convidativa
  Bolo simples caseiro.
